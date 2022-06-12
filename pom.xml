@@ -69,13 +69,13 @@
 	<repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>665a7c67cee4ea00ff6d386604936c0a41e7ca67</url>
+	      <url>http://54.208.116.83:8081/repository/javalogin-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>665a7c67cee4ea00ff6d386604936c0a41e7ca67</url>
+	      <url>http://54.208.116.83:8081/repository/JavaLogin-snapshot/</url>
 	    </snapshotRepository>
 	
 		</distributionManagement>
