@@ -17,6 +17,10 @@
 
 	<properties>
 		<java.version>1.8</java.version>
+		<sonar.host.url>http://44.201.234.96:9000</sonar.host.url>
+		<sonar.login>665a7c67cee4ea00ff6d386604936c0a41e7ca67</sonar.login>
+		
+		
 	</properties>
 
 	<dependencies>
