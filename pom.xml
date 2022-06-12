@@ -62,7 +62,25 @@
 			</exclusions>
 		</dependency>
 	</dependencies>
+		
+	
+<distributionManagement>
 
+	<repository>
+	      <id>nexus</id>
+	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <url>665a7c67cee4ea00ff6d386604936c0a41e7ca67</url>
+	    </repository>
+	    
+	    <snapshotRepository>
+	      <id>nexus</id>
+	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <url>665a7c67cee4ea00ff6d386604936c0a41e7ca67</url>
+	    </snapshotRepository>
+	
+		</distributionManagement>
+	  
+	
 	<build>
 		<plugins>
 			<plugin>
